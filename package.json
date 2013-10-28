@@ -1,0 +1,20 @@
+{
+  "name": "cruise-states",
+  "version": "0.0.1",
+  "description": "Performs state machine transitions for cruise",
+  "keywords": [],
+  "author": "Calvin French-Owen <calvin@calv.info>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinfo/cruise-state.git"
+  },
+  "dependencies": {
+    "debug": "~0.7.2",
+    "jit": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "lib/index"
+}
